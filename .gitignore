@@ -1,0 +1,22 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# IDE
+.vscode/
+.idea/
+*.sln
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
